@@ -38,7 +38,7 @@ El proyecto incluye gráficos generados para representar los datos analizados, c
 🤔 Conclusión
 Tras analizar los datos, la Tienda 4 fue identificada como la menos rentable, a pesar de tener costos de envío bajos. Se recomienda que el Sr. Juan considere esta información para tomar una decisión informada sobre la venta de la tienda e invertir en negocios más rentables.
 🚀 Cómo Ejecutar el Proyecto
-- Clona el repositorio:git clone https://github.com/tuusuario/nombre-repositorio.git
+- Clona el repositorio:git clone [https://github.com/tuusuario/nombre-repositorio.git](https://github.com/Sol20201/Challenge_Phyton1.git)
 
 - Abre el archivo AluraStoreLatam.ipynb en Google Colab.
 - Ejecuta las celdas de código para replicar el análisis.
